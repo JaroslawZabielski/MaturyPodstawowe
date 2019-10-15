@@ -1,0 +1,15 @@
+5.1
+Tytul	Cena	Rodzaj
+Ekspresowy kurs dla poczatkujacych. Niemiecki.	47,99	a
+Ekspresowy kurs dla poczatkujacych. Francuski.	47,99	a
+Trening mentalny sportowca kurs	66,99	a
+Zapytania w jezyku T-SQL. w Microsoft SQL Server 2014 i SQL Server 2012	132,99	e
+Programowanie Microsoft SQL Server 2012.	132,99	e
+Ekspresowy kurs dla srednio zaawansowanych. Angielski.	47,99	a
+Zaawansowany Python. Jasne, zwiezle i efektywne programowanie	132,99	e
+Ekspresowy kurs dla poczatkujacych. Wloski.	47,99	a
+Ekspresowy kurs dla srednio zaawansowanych. Hiszpanski.	47,99	a
+Ekspresowy kurs dla poczatkujacych. Hiszpanski.	47,99	a
+Programowanie Microsoft SQL Server 2008 Tom 1 i 2. Pakiet	132,99	e
+Medytacja Kolorami.	45,99	a
+Ekspresowy kurs dla poczatkujacych. Angielski.	47,99	a
