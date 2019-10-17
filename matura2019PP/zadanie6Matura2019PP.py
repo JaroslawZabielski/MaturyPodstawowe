@@ -1,6 +1,6 @@
 """
-Zadanie 6 Matura 2019 PP
-(C) Jarosław Zabielski, październik 2019
+Zadanie 6 Matura 2019 pp
+(C) Arkadiusz Zgódka, październik 2019
 LO Sobolew
 """
 
