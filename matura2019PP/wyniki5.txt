@@ -33,3 +33,20 @@ literatura piekna	15,9660348583876
 nauki humanistyczne	12,7690262172284
 nauki matematyczno-przyrodnicze	11,1675886524822
 nauki spoleczne	16,1900714285713
+
+
+
+54
+Dziedzina	Pierwszy Of ID_publikacji	Policz Of Zakupy
+ekonomia	e875	277
+informatyka	e924	446
+literatura faktu	a1070	168
+literatura piekna	e453	587
+nauki humanistyczne	e462	295
+nauki matematyczno-przyrodnicze	e1012	377
+nauki spoleczne	e682	350
+
+5.5
+Nick_klienta	Suma Of Cena
+Lucky	908,47
+5dzientygodnia	13,97
