@@ -1,0 +1,39 @@
+5.1Tytul	Cena	Rodzaj
+Programowanie Microsoft SQL Server 2008 Tom 1 i 2. Pakiet	132,99	e
+Zaawansowany Python. Jasne, zwiezle i efektywne programowanie	132,99	e
+Programowanie Microsoft SQL Server 2012.	132,99	e
+Zapytania w jezyku T-SQL. w Microsoft SQL Server 2014 i SQL Server 2012	132,99	e
+Trening mentalny sportowca kurs	66,99	a
+Ekspresowy kurs dla poczatkujacych. Angielski.	47,99	a
+Ekspresowy kurs dla poczatkujacych. Hiszpanski.	47,99	a
+Ekspresowy kurs dla srednio zaawansowanych. Hiszpanski.	47,99	a
+Ekspresowy kurs dla poczatkujacych. Wloski.	47,99	a
+Ekspresowy kurs dla srednio zaawansowanych. Angielski.	47,99	a
+Ekspresowy kurs dla poczatkujacych. Francuski.	47,99	a
+Ekspresowy kurs dla poczatkujacych. Niemiecki.	47,99	a
+Medytacja Kolorami.	45,99	a
+
+5.2
+Autor	Rok wydania	Dziedzina	
+Rafal Janus	2014	informatyka	
+Drea Zigarmi, Ken Blanchard, Patricia Zigarmi	2014	ekonomia	
+Brian Tracy	2014	ekonomia	
+
+5.3
+Dziedzina				SredCena
+ekonomia				8,98zł
+informatyka				31,99zł
+literatura faktu			22,81zł
+literatura piekna			15,97zł
+nauki humanistyczne			12,77zł
+nauki matematyczno-przyrodnicze		11,17zł
+nauki spoleczne				16,19zł
+
+5.4 Dziedzina	     Policz Of Zakupy     Pierwszy Of ID_publikacji
+
+    literatura piekna   587	          e453
+
+5.5 Nick_klienta	Suma Of Cena
+	Lucky		908,47
+
+   5dzientygodnia      13,97
