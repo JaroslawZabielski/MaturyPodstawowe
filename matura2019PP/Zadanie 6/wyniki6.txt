@@ -1,11 +1,11 @@
-6.1
-442 - kobiety
-558 - mê¿czyŸni
+6.1.
+Mê¿czyŸni: 558
+Kobiety: 442
 
-6.2
-90
+6.2.
+Osób urodzonych w listopadzie: 90
 
-6.3
+6.3.
 72040163352
 46020791664
 93071087527
