@@ -21,3 +21,20 @@ Drea Zigarmi, Ken Blanchard, Patricia Zigarmi	Jednominutowy menedzer i przywodzt
 Brian Tracy	Zarzadzanie czasem.	2014	ekonomia	flipher
 
 5.3
+Dziedzina	CenaZł
+ekonomia	8,98zł
+informatyka	31,99zł
+literatura faktu	22,81zł
+literatura piekna	15,97zł
+nauki humanistyczne	12,77zł
+nauki matematyczno-przyrodnicze	11,17zł
+nauki spoleczne	16,19zł
+
+5.4
+Dziedzina	PoliczOfID_publikacji
+literatura piekna	587
+
+5.5
+Nick_klienta	Suma Of Cena
+Lucky	908,47
+5dzientygodnia	13,97
