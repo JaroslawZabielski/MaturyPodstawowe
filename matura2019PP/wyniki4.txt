@@ -1,0 +1,13 @@
+4.1
+103
+4.2
+298
+4.3
+1 liczba 167
+2 liczba 172
+3 liczba 153
+4 liczba 173
+5 liczba 155
+6 liczba 160
+
+4.4
