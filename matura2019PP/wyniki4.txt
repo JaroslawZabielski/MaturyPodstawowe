@@ -1,0 +1,13 @@
+4.1
+103
+4.2
+298
+4.3
+nr_telefonu	data_godz_polaczenia	nr_pytania
+	1 Liczba	167
+	2 Liczba	172
+	3 Liczba	153
+	4 Liczba	173
+	5 Liczba	155
+	6 Liczba	160
+	Licznik całkowity	980
