@@ -13,3 +13,28 @@ Ekspresowy kurs dla poczatkujacych. Hiszpanski.	47,99	a
 Programowanie Microsoft SQL Server 2008 Tom 1 i 2. Pakiet	132,99	e
 Medytacja Kolorami.	45,99	a
 Ekspresowy kurs dla poczatkujacych. Angielski.	47,99	a
+
+5.2
+
+5.3
+Dziedzina	SredCena
+ekonomia	8,98 zł
+informatyka	31,99 zł
+literatura faktu	22,81 zł
+literatura piekna	15,97zł
+nauki humanistyczne	12,77 zł
+nauki matematyczno-przyrodnicze	11,17zł
+nauki spoleczne	16,19 zł
+
+5.4
+literatura piekna	587
+
+5.5
+Dziedzina	SredCenaZł
+ekonomia	8,98zł
+informatyka	31,99zł
+literatura faktu	22,81zł
+literatura piekna	15,97zł
+nauki humanistyczne	12,77zł
+nauki matematyczno-przyrodnicze	11,17zł
+nauki spoleczne	16,19zł
