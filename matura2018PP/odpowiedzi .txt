@@ -1,0 +1,21 @@
+4.1
+Druzyna Pole	LiczbaPowtórzeń
+Bukowina	26
+Grot	12
+Jaworzyna	49
+Plomien	16
+Watra	14
+Wierchy	42
+Zawisza	11
+Zywioly	17
+
+4.2
+Nazwa_sprawnosci	Suma Of L_punktow
+goral	21583
+ratownik	4263
+spadochroniarz	16492
+strzelec	10704
+tropiciel	45035
+zeglarz	41132
+
+4.3
