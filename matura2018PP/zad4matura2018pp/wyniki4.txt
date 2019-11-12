@@ -13,3 +13,11 @@ Nazwa_sprawnosci	Suma Of L_punktow
 ratownik	4263
 
 tropiciel	45035
+4.3
+
+4.4 
+żywioły
+
+5.1
+Imie	Nazwisko	Nazwa_sprawnosci	liczba_dni
+Jozef	Piotrkowski	zeglarz	15
