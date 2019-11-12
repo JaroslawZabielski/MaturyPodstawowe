@@ -13,3 +13,19 @@ Nazwa_sprawnosci	Suma Of L_punktow
 tropiciel	45035
 ratownik	4263
 4.3
+Marian Majchrowicz	ratownik
+Marian Majchrowicz	spadochroniarz
+Marian Majchrowicz	strzelec
+Marian Majchrowicz	tropiciel
+Marian Majchrowicz	goral
+Marian Majchrowicz	zeglarz
+Mateusz Buczek	ratownik
+Mateusz Buczek	spadochroniarz
+Mateusz Buczek	strzelec
+Mateusz Buczek	tropiciel
+Mateusz Buczek	goral
+Mateusz Buczek	zeglarz
+4.4
+Zywioły
+4.5
+Jozef	Piotrkowski	zeglarz	15
