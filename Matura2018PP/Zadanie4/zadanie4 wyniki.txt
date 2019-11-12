@@ -1,0 +1,28 @@
+4.1
+Druzyna Pole	LiczbaPowtórzeń
+Bukowina	26
+Grot	12
+Jaworzyna	49
+Plomien	16
+Watra	14
+Wierchy	42
+Zawisza	11
+Zywioly	17
+
+4.2
+Nazwa_sprawnosci	Suma Of L_punktow
+tropiciel	45035
+ratownik	4263
+
+4.3
+Imie	Nazwisko	PoliczOfNazwa_sprawnosci
+Mateusz	Buczek		5
+Marian	Majchrowicz	5
+
+4.4
+Zywioły
+
+4.5
+Imie	Nazwisko	Nazwa_sprawnosci	liczba_dni
+Jozef	Piotrkowski	zeglarz	15
+
