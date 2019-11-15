@@ -1,0 +1,24 @@
+6.2
+
+Liczba_kilogramow	imie nazwisko
+Kamila Wolan  201 kg
+
+6.3
+Miesi¹c Liczba kilogramów 
+1 	5343 
+2 	4966 
+3 	4895 
+4 	3446 
+5 	3222 
+6 	2984 
+7 	3262 
+8 	4128 
+9 	4826 
+10 	4558 
+11 	5502 
+12 	3771 
+
+
+
+6.4
+31.01.2017  18 razy
