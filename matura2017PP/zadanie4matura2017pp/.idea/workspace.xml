@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a39efdd-c71f-4825-af48-5486d56abd39" name="Default Changelist" comment="" />
+    <list default="true" id="d71f9995-d98e-48da-93ef-59b5efb84d66" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,10 +9,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/zadanie4matura2017pp.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-175">
+              <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -25,14 +29,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/zad4matura2018PP.py" />
-        <option value="$PROJECT_DIR$/zadanie5matura2018PP.py" />
-        <option value="$PROJECT_DIR$/zad5matura2018pp/zadanie5matura2018PP.py" />
         <option value="$PROJECT_DIR$/zadanie4matura2017pp.py" />
       </list>
     </option>
@@ -48,30 +49,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="matura2018PP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="matura2018PP" type="462c0819:PsiDirectoryNode" />
+              <item name="zadanie4matura2017pp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zadanie4matura2017pp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Marcin Zabiegałowski\Desktop\Matury podstawowe\MaturyPodstawowe\matura2018PP" />
+      <recent name="C:\Users\Marcin Zabiegałowski\Desktop\Matury podstawowe\MaturyPodstawowe\matura2017PP\zadanie4matura2017pp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -86,31 +93,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.zadanie5matura2018PP (1)">
-    <configuration name="zadanie5matura2018PP (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="matura2018PP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zad5matura2018pp" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zad5matura2018pp/zadanie5matura2018PP.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="zadanie5matura2018PP" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="matura2018PP" />
+  <component name="RunManager">
+    <configuration name="zadanie4matura2017pp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zadanie4matura2017pp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -122,7 +107,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zadanie5matura2018PP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zadanie4matura2017pp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,8 +118,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.zadanie5matura2018PP (1)" />
-        <item itemvalue="Python.zadanie5matura2018PP" />
+        <item itemvalue="Python.zadanie4matura2017pp" />
       </list>
     </recent_temporary>
   </component>
@@ -143,35 +127,29 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4a39efdd-c71f-4825-af48-5486d56abd39" name="Default Changelist" comment="" />
-      <created>1572350533807</created>
+      <changelist id="d71f9995-d98e-48da-93ef-59b5efb84d66" name="Default Changelist" comment="" />
+      <created>1573813750662</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572350533807</updated>
-      <workItem from="1572350543710" duration="59000" />
-      <workItem from="1572350678028" duration="1471000" />
-      <workItem from="1572352191119" duration="896000" />
-      <workItem from="1572354012110" duration="1205000" />
-      <workItem from="1572355275945" duration="826000" />
-      <workItem from="1573813666335" duration="121000" />
-      <workItem from="1574164445780" duration="114000" />
+      <updated>1573813750662</updated>
+      <workItem from="1573813752084" duration="38000" />
+      <workItem from="1574164569561" duration="4417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4692000" />
+    <option name="totallyTimeSpent" value="4455000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2683374" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25305623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32922733" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39977604" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -192,21 +170,15 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/matura2018PP$zadanie5matura2018PP__1_.coverage" NAME="zadanie5matura2018PP (1) Coverage Results" MODIFIED="1572356079938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zad5matura2018pp" />
-    <SUITE FILE_PATH="coverage/matura2018PP$zadanie5matura2018PP.coverage" NAME="zadanie5matura2018PP Coverage Results" MODIFIED="1572351280875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zadanie4matura2017pp$zadanie4matura2017pp.coverage" NAME="zadanie4matura2017pp Coverage Results" MODIFIED="1574169668952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zad4matura2018PP.py" />
-    <entry file="file://$PROJECT_DIR$/zadanie5matura2018PP.py" />
-    <entry file="file://$PROJECT_DIR$/zad5matura2018pp/zadanie5matura2018PP.py">
+    <entry file="file://$PROJECT_DIR$/zadanie4matura2017pp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="40" lean-forward="true" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+        <state relative-caret-position="-175">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zadanie4matura2017pp.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
