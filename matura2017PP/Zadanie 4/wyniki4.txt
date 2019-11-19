@@ -1,0 +1,10 @@
+1.
+139
+
+2.
+1404
+
+3.
+Liczba wierszy, gdzie suma cyfr = 35: 4
+Najwiêksza suma cyfr:88
+Liczba wierszy, w których suma cyfr jest równa najwiêkszej sumie cyfr: 2
