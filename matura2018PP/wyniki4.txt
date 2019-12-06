@@ -1,1 +1,23 @@
 4.1
+Nazwa dru¿yny   Liczba harcerzy
+Bukowina 	26
+Zywioly 	17
+Wierchy 	42
+Jaworzyna 	49
+Plomien 	16
+Zawisza 	11
+Watra 		14
+Grot 		12 
+
+
+
+
+4.2
+
+Najwiêcej punktów	 tropiciel
+Najmniej punktów	 ratownik 
+
+4.3
+Marian Majchrowicz - goral ratownik strzelec tropiciel zeglarz
+
+Mateusz Buczek - goral spadochroniarz strzelec tropiciel zeglarz 
