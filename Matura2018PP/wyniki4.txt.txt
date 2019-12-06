@@ -1,0 +1,41 @@
+4.1
+Druzyna Liczba harcerzy
+Bukowina	26
+Grot	12
+Jaworzyna	49
+Plomien	16
+Watra	14
+Wierchy	42
+Zawisza	11
+Zywioly	17
+
+
+
+4.2
+Nazwa_sprawnosci	Suma Of L_punktow
+tropiciel	45035
+ratownik	4263
+
+
+
+4.3
+Marian Majchrowicz	goral
+Marian Majchrowicz	ratownik
+Marian Majchrowicz	strzelec
+Marian Majchrowicz	tropiciel
+Marian Majchrowicz	zeglarz
+
+Mateusz Buczek	goral
+Mateusz Buczek	spadochroniarz
+Mateusz Buczek	strzelec
+Mateusz Buczek	tropiciel
+Mateusz Buczek	zeglarz
+
+
+
+4.4
+Zywio³y
+
+
+4.5
+Jozef	Piotrkowski	zeglarz	15
