@@ -1,0 +1,20 @@
+6.1
+Dziewczęta 976
+Chłopcy 1124
+
+6.2
+nazwisko	imie	Glosy
+Jamski	Lucjan	75
+Maciak	Katarzyna	68
+Korbus	Marta	67
+Bujnarowski	Szymon	65
+Laskowski	Beniamin	65
+Kogut	Bartlomiej	64
+Pilski	Antoni	63
+Krefta	Mateusz	61
+Kopacz	Piotr	61
+Dlugosz	Dorota	61
+
+6.3
+
+6.4
