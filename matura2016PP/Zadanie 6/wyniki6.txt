@@ -1,0 +1,13 @@
+1.
+236
+
+2.
+Najwiêksza liczba pierwsza: 29881
+Najmniejsza liczba pierwsza: 73
+
+3.
+Iloœæ par liczb bliŸniaczych: 4
+1999 1997
+1721 1723
+1481 1483
+809 811

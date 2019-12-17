@@ -1,0 +1,29 @@
+1.
+Albert	Banach
+Felicja	Bogdanska
+Beata	Brun
+Tytus	Chmiel
+Piotr	Gniewny
+Edyta	Kaczor
+Anna	Knap
+Michal	Sawicki
+Jerzy	Szybki
+Feliks	Wysoki
+
+2.
+Nazwa_produktu	Grupa_towarowa	Producent
+A8-143		Notebooki	TSB
+IXP3		Aparaty cyfrowe	SPE
+TM4233		Notebooki	Beca
+SATP100-260	Notebooki	TSB
+
+3.
+Najwięcej zamówień (7) złożył Maksymilian Stuhr
+
+4.
+Krystian	Garnek		41 471,02 zł
+Albin		Szary		32 311,58 zł
+Małgorzata	Sobieska	31 725,98 zł
+
+5.
+39
