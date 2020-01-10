@@ -1,0 +1,32 @@
+5.1
+nazwisko	imie
+Banach	Albert
+Bogdanska	Felicja
+Brun	Beata
+Chmiel	Tytus
+Gniewny	Piotr
+Kaczor	Edyta
+Knap	Anna
+Sawicki	Michal
+Szybki	Jerzy
+Wysoki	Feliks
+
+5.2
+Nazwa_produktu	Grupa_towarowa	Producent
+A8-143	Notebooki	TSB
+IXP3	Aparaty cyfrowe	SPE
+TM4233	Notebooki	Beca
+SATP100-260	Notebooki	TSB
+
+5.3
+imie	nazwisko	PoliczOfID_zamowienia
+Maksymilian	Stuhr	7
+
+5.4
+imie	nazwisko	Suma Of Koszt
+Krystian	Garnek	41471,02
+Albin	Szary	32311,58
+Małgorzata	Sobieska	31725,98
+
+5.5
+39
